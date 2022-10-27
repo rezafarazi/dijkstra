@@ -1,0 +1,6 @@
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\bin\Debug\Dayjestra.exe.config
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\bin\Debug\Dayjestra.exe
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\bin\Debug\Dayjestra.pdb
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\obj\Debug\Dayjestra.csprojResolveAssemblyReference.cache
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\obj\Debug\Dayjestra.exe
+c:\users\rezafta\documents\visual studio 2015\Projects\Dayjestra\Dayjestra\obj\Debug\Dayjestra.pdb
